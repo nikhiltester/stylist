@@ -26,6 +26,6 @@
     "config": {
         "preferred-install": "dist"
     },
-    "license": "MIT",
+    "license": "MIT"
  
 }
